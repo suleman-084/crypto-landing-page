@@ -29,4 +29,4 @@
 
 - How to use CSS properties like background-position and background-size
 
-<!-- ## [Live-link](https://landing-page-of-crypto.netlify.app/) of the project -->
+## [Live-link](https://crypto-landing-page05.netlify.app/) of the project
